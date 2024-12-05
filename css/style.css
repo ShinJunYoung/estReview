@@ -437,7 +437,6 @@ section{
 .footer{
     /* display: flex; */
     /* justify-content: center; */
-    height: 150px;
     padding: 1.5rem 7%;
     background: var(--black);
     text-align: center;
@@ -475,4 +474,9 @@ section{
     color: #fff;
     border: var(--border);
     font-size: 2rem;
+}
+
+.footer .credit{
+    color: #fff;
+    font-style: italic;
 }
